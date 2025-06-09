@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me <br>👋 Hi, I’m Ayush Srivastava!<br>I’m a BCA 3rd-year student passionate about web development. I’ve completed learning HTML ,CSS & JAVASCRIPT and am currently diving into Node.js and Java to strengthen my skills in frontend and backend development.</h3>
+<h3 align="center">🧑‍💻 About Me <br>👋 Hi, I’m Ayush Srivastava!<br>I’m a BCA 3rd-year student passionate about web development. I’ve completed learning HTML ,CSS & JAVASCRIPT and am currently diving into Node.js and Java to strengthen my skills in frontend and backend development.</h3>
 
 ###
 
