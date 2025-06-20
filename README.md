@@ -6,7 +6,7 @@
 <!-- Typing Intro -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=58A6FF&lines=Hey+there!+I'm+Ayush+Srivastava+👋;Web+Developer+%7C+Java+Learner+%7C+BCA+Student">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=400&color=58A6FF&lines=Hey+there!+I'm+Ayush+Srivastava+👋;Web+Developer+%7C+Java+Learner+%7C+BCA+Student">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=000000&lines=Hey+there!+I'm+Ayush+Srivastava+👋;Web+Developer+%7C+Java+Learner+%7C+BCA+Student" alt="Typing SVG">
   </picture>
 </p>
