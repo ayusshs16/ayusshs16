@@ -33,13 +33,17 @@
 
 ---
 
-## 📊 GitHub Stats + Streak
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshs16&theme=github-dark&hide_border=false" width="48%" />
 </p>
 
+---
+<h2>🏆GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayusshs16&theme=github" />
+</p>
 ---
 
 ## 🧠 Dynamic Dev Quote
