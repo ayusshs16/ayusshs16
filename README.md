@@ -44,6 +44,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayusshs16&theme=github" />
 </p>
+---
 
 ## 🧠 Dynamic Dev Quote
 
