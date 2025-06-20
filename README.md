@@ -10,18 +10,18 @@
 
 ## 📍 About Me
 
-🎓 I'm a 3rd-year **BCA** student from **Kanpur, Uttar Pradesh**  
-💻 Passionate about **Web Development**  
-📚 Currently diving deep into **Java**, **Node.js**, and backend engineering
+🎓 I'm a 3rd-year BCA student from Kanpur, Uttar Pradesh  
+💻 Passionate about Web Development  
+📚 Currently diving deep into Java, Node.js, and backend engineering
 
 ---
 
 ## 🚀 What I’m Working On
 
-- Building backend projects with **Node.js**, **Express.js**, and **MongoDB**
-- Practicing **Data Structures & Algorithms**
-- Contributing to **Open Source**
-- Learning advanced **Java**
+- Building backend projects with Node.js, Express.js, and MongoDB
+- Practicing Data Structures & Algorithms
+- Contributing to Open Source
+- Learning advanced Java
 
 ---
 
@@ -37,8 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
-  <!-- Replace the URL below after deploying your own streak stats on Vercel -->
-  <img src="https://streak-stats.demolab.com?user=ayusshs16&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshs16&theme=github-dark&hide_border=false" width="48%" />
 </p>
 
 ---
@@ -59,14 +58,13 @@
 
 ---
 
-## 🔥 Weekly Activity Heatmap
+## 🔥 Contribution Heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusshs16&theme=github-compact&hide_border=true" />
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 
