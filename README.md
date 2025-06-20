@@ -35,12 +35,6 @@ Passionate about **web development**, I’ve learned **HTML**, **CSS**, and **Ja
 
 ---
 
-## 💼 Featured Projects
-
-- **[Project Name]** – Full-stack app using Node.js + Express *(describe here)*  
-- **[Java Tool Name]** – Built with Java and OOP principles *(describe here)*
-
----
 
 ## 🧠 Fun Developer Quote
 
