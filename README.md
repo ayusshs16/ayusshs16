@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/ayusshs16/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayushsrivastava1234@gmail.com">
+  <a href="mailto:ayushsrivastava9336@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ayusshs16/" target="_blank">
