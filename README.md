@@ -1,7 +1,13 @@
+<!-- GitHub Profile Header -->
+<p align="center">
+  <img src="BANNER_LINK_HERE" alt="Ayush Srivastava GitHub Banner" />
+</p>
+
+<!-- Typing Intro -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=58A6FF&lines=Hey+there!+I%27m+Ayush+Srivastava+👋;Web+Developer+%7C+BCA+Student+%7C+Node.js+%26+Java+Learner">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&color=000000&lines=Hey+there!+I%27m+Ayush+Srivastava+👋;Web+Developer+%7C+BCA+Student+%7C+Node.js+%26+Java+Learner" alt="Typing SVG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=58A6FF&lines=Hey+there!+I'm+Ayush+Srivastava+👋;Web+Developer+%7C+Java+Learner+%7C+BCA+Student">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=000000&lines=Hey+there!+I'm+Ayush+Srivastava+👋;Web+Developer+%7C+Java+Learner+%7C+BCA+Student" alt="Typing SVG">
   </picture>
 </p>
 
@@ -9,17 +15,17 @@
 
 ## 👨‍💻 About Me
 
-I’m **Ayush Srivastava**, a 3rd-year BCA student at Dayanand Academy of Management Studies in **Kanpur, Uttar Pradesh**.  
-Passionate about **web development**, I’ve learned **HTML**, **CSS**, and **JavaScript**, and I’m currently building skills in **Node.js** and **Java** for full-stack development.
+I’m **Ayush Srivastava**, a 3rd-year BCA student from **Kanpur, Uttar Pradesh**, passionate about tech and development.  
+I love building web applications and exploring backend technologies with **Node.js** and **Java**.  
 
 ---
 
 ## 🚀 Current Focus
 
-- Learning **Node.js**, **Express**, and **Java**
-- Building real-world **full-stack apps**
-- Exploring **REST APIs**, **MongoDB**, and **DSA**
-- Open to **internship opportunities** and collaborations
+- Mastering **Node.js**, **Express**, and **Java**
+- Building full-stack real-world apps
+- Exploring **MongoDB**, **REST APIs**, and **DSA**
+- Actively looking for **internship** and **collaboration** opportunities
 
 ---
 
@@ -35,26 +41,28 @@ Passionate about **web development**, I’ve learned **HTML**, **CSS**, and **Ja
 
 ---
 
-
-## 🧠 Fun Developer Quote
-
-> “First, solve the problem. Then, write the code.”  
-> — *John Johnson*
-
----
-
-## 🏅 Open Source Badge
-
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=default#gh-light-mode-only" />
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=radical#gh-dark-mode-only" />
 </p>
+
+---
+
+## 📚 Profiles & Badges
+
+<a href="https://www.geeksforgeeks.org/user/ayushgfg16/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+</a>
+<br />
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+---
+
+## 🧠 Quote I Live By
+
+> “Code. Learn. Build. Repeat.” — *Ayush Srivastava*
 
 ---
 
