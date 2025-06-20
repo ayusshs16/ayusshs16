@@ -37,7 +37,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshs16&theme=github-dark&hide_border=false" width="48%" />
+  <!-- Replace the URL below after deploying your own streak stats on Vercel -->
+  <img src="https://streak-stats.demolab.com?user=ayusshs16&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 ---
@@ -58,13 +59,14 @@
 
 ---
 
-## 🔥 Contribution Heatmap
+## 🔥 Weekly Activity Heatmap
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusshs16&theme=github-compact&hide_border=true" />
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
