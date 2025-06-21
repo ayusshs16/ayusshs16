@@ -10,38 +10,54 @@
 
 ## 📍 About Me
 
-🎓 I'm a 3rd-year BCA student from Kanpur, Uttar Pradesh  
+🎓 3rd-year BCA student from Kanpur, Uttar Pradesh  
 💻 Passionate about Web Development  
-📚 Currently diving deep into Java, Node.js, and backend engineering
+📚 Diving into Java, Node.js, and backend engineering
 
 ---
 
 ## 🚀 What I’m Working On
 
-- Building backend projects with Node.js, Express.js, and MongoDB
-- Practicing Data Structures & Algorithms
-- Contributing to Open Source
-- Learning advanced Java
+- Building backend projects with Node.js, Express.js, and MongoDB  
+- Practicing DSA + solving CTFs and cybersecurity challenges  
+- Contributing to open-source communities  
+- Deepening Java expertise
 
 ---
 
-## 🧠 Animated Tech Stack (Skill Bars)
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,mongodb,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,mongodb,git,vscode" />
 </p>
 
 ---
 
-## 📈 GitHub Streaks
+## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayusshs16&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshs16&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ayusshs16/project-haxnation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=project-haxnation&theme=github_dark" />
+  </a>
+  <a href="https://github.com/ayusshs16/ClimaApp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=ClimaApp&theme=github_dark" />
+  </a>
+  <a href="https://github.com/ayusshs16/TextEditor-Java" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=TextEditor-Java&theme=github_dark" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
@@ -49,7 +65,7 @@
 
 ---
 
-## 🧠 Dynamic Dev Quote
+## 🧠 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -57,7 +73,7 @@
 
 ---
 
-## 🧾 GitHub Summary Card
+## 🧾 GitHub Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusshs16&theme=github_dark" />
@@ -65,10 +81,18 @@
 
 ---
 
-## 🔥 Contribution Heatmap
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusshs16&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 😂 Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
 </p>
 
 ---
