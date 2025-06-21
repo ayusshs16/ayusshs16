@@ -1,7 +1,7 @@
 <!-- Quote Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=58A6FF&lines=Code.+Learn.+Build.+Repeat.">
-</p>
+</p>     
 
 <h2 align="center">Hey there! 👋 I'm Ayush Srivastava</h2>
 <p align="center">Web Developer • Java Learner • BCA Student</p>
@@ -19,7 +19,7 @@
 ## 🚀 What I’m Working On
 
 - Building backend projects with Node.js, Express.js, and MongoDB  
-- Practicing DSA + solving CTFs and cybersecurity challenges  
+- Practicing DSA.
 - Contributing to open-source communities  
 - Deepening Java expertise
 
@@ -42,16 +42,19 @@
 ---
 
 ## 📌 Featured Projects
-
 <p align="center">
-  <a href="https://github.com/ayusshs16/project-haxnation" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=project-haxnation&theme=github_dark" />
+  <a href="https://github.com/ayusshs16/simon-says-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=simon-says-2&theme=github_dark" />
   </a>
-  <a href="https://github.com/ayusshs16/ClimaApp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=ClimaApp&theme=github_dark" />
+
+  <a href="https://github.com/ayusshs16/Rock-Paper-Scissors-Web" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Rock-Paper-Scissors-Web&theme=github_dark" />
   </a>
-  <a href="https://github.com/ayusshs16/TextEditor-Java" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=TextEditor-Java&theme=github_dark" />
+  <a href="https://github.com/ayusshs16/emoji-fighter-showdown" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=emoji-fighter-showdown&theme=github_dark" />
+  </a>
+  <a href="https://github.com/ayusshs16/passenger-counter-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=passenger-counter-app&theme=github_dark" />
   </a>
 </p>
 
