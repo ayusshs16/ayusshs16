@@ -33,6 +33,14 @@
 
 ---
 
+## 📈 GitHub Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayusshs16&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -40,13 +48,7 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayusshs16&theme=github" />
-</p>
-
----
 ## 🧠 Dynamic Dev Quote
 
 <p align="center">
