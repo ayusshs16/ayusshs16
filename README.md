@@ -64,7 +64,7 @@
 
 ---
 
-## 🧠 <strong>Dev Quote</strong>
+## 🧠 <strong>Dev Quotes</strong>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
