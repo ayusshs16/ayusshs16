@@ -114,7 +114,7 @@
   <a href="https://leetcode.com/u/Ayush9336/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/ayusshs16" target="_blank">
+  <a href="https://www.codechef.com/users/ayusshss16" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
 </p>
