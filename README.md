@@ -122,12 +122,6 @@
 
 ---
 
-## 🏅 <strong>Badges</strong>
-
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusshs16.ayusshs16" alt="Visitor Count" />
 </p>  
