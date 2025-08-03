@@ -12,7 +12,7 @@
 
 🎓 3rd-year BCA student from Kanpur, Uttar Pradesh  
 💻 Passionate about Web Development  
-📚 Diving into Java, Node.js, and backend engineering
+📚 Diving into Java, Node.js, and backend engineering  
 
 ---
 
@@ -21,14 +21,38 @@
 - Building backend projects with Node.js, Express.js, and MongoDB  
 - Practicing DSA  
 - Contributing to open-source communities  
-- Deepening Java expertise
+- Deepening Java expertise  
 
 ---
 
 ## 🧠 <strong>Tech Stack</strong>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,mongodb,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,mongodb,git,vscode,aws" />
+</p>
+
+---
+
+## 🧠 <strong>Soft Skills</strong>
+
+- Communication  
+- Team Collaboration  
+- Time Management  
+- Problem Solving  
+- Basic AI Understanding  
+
+---
+
+## 📜 <strong>Certifications</strong>
+
+<p align="center">
+  <img src="https://i.postimg.cc/dVfX0Tkg/instagram-system-design.png" width="400" alt="Scaler - System Design" />
+  <img src="https://i.postimg.cc/WbWY9Jnt/1744024282688.jpg" width="400" alt="GFG - Fullstack Bootcamp" />
+  <img src="https://i.postimg.cc/sgb6zdbr/1751393800085.jpg" width="400" alt="LinkedIn Learning - Developer Skills" />
+  <img src="https://i.postimg.cc/HL5SsvC7/1751474518237.jpg" width="400" alt="SQL Basics - HackerRank" />
+  <img src="https://i.postimg.cc/QtJ0cBC8/1751894821878.jpg" width="400" alt="Java Practice Certificate" />
+  <img src="https://i.postimg.cc/QC6mnRcv/1752220008124.jpg" width="400" alt="APIhub Hackathon 1.0" />
+  <img src="https://i.postimg.cc/1XRMB9Vp/1752325113946.jpg" width="400" alt="Gen AI & ChatGPT - Certificate" />
 </p>
 
 ---
@@ -105,23 +129,13 @@
   <a href="mailto:ayushsrivastava9336@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ayusshs.16/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.geeksforgeeks.org/user/ayushgfg16/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Ayush9336/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/ayusshss16" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
-  </a>
 </p>
-
 
 ---
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusshs16.ayusshs16" alt="Visitor Count" />
-</p>  
+</p>
