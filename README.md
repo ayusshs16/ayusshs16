@@ -1,31 +1,43 @@
-<!-- Quote Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=480&color=58A6FF&lines=Code.+Learn.+Build.+Repeat.">
-</p>     
+  <img src="github.gif" alt="Banner" width="100%" />
+</p>
 
-<h2 align="center">Hey there! 👋 I'm Ayush Srivastava</h2>
-<p align="center"><strong>Web Developer • Java Learner • BCA Student</strong></p>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc">Ayush Srivastava</span></h1>
+<h3 align="center">💻 Web Developer | ☕ Java Learner | 🎓 BCA Student</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400"/>
+</p>
 
 ---
 
-## 📍 <strong>About Me</strong>
+## 📍 About Me  
 
 🎓 3rd-year BCA student from Kanpur, Uttar Pradesh  
-💻 Passionate about Web Development  
-📚 Diving into Java, Node.js, and backend engineering  
+💻 Passionate about building dynamic and user-friendly web applications  
+📚 Currently learning Java, Node.js, and backend development  
+🚀 Exploring cloud computing and DevOps fundamentals  
+🤝 Open to collaborating on open-source projects and hackathons  
 
 ---
 
-## 🚀 <strong>What I’m Working On</strong>
+## 🌐 Connect with Me
 
-- Building backend projects with Node.js, Express.js, and MongoDB  
-- Practicing DSA  
-- Contributing to open-source communities  
-- Deepening Java expertise  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayusshs16/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:ayushsrivastava9336@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/ayushgfg16/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 <strong>Tech Stack</strong>
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,mongodb,git,vscode,aws" />
@@ -33,31 +45,35 @@
 
 ---
 
-## 🧠 <strong>Soft Skills</strong>
-
-- Communication  
-- Team Collaboration  
-- Time Management  
-- Problem Solving  
-- Basic AI Understanding  
-
----
-
-## 📜 <strong>Certifications</strong>
+## 📜 Certifications
 
 <p align="center">
-  <img src="https://i.postimg.cc/dVfX0Tkg/instagram-system-design.png" width="400" alt="Scaler - System Design" />
-  <img src="https://i.postimg.cc/WbWY9Jnt/1744024282688.jpg" width="400" alt="GFG - Fullstack Bootcamp" />
-  <img src="https://i.postimg.cc/sgb6zdbr/1751393800085.jpg" width="400" alt="LinkedIn Learning - Developer Skills" />
-  <img src="https://i.postimg.cc/HL5SsvC7/1751474518237.jpg" width="400" alt="SQL Basics - HackerRank" />
-  <img src="https://i.postimg.cc/QtJ0cBC8/1751894821878.jpg" width="400" alt="Java Practice Certificate" />
-  <img src="https://i.postimg.cc/QC6mnRcv/1752220008124.jpg" width="400" alt="APIhub Hackathon 1.0" />
-  <img src="https://i.postimg.cc/1XRMB9Vp/1752325113946.jpg" width="400" alt="Gen AI & ChatGPT - Certificate" />
+  <a href="https://drive.google.com/file/d/your-link-here/view" target="_blank">
+    <img src="https://img.shields.io/badge/-Scaler%20System%20Design-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/your-link-here/view" target="_blank">
+    <img src="https://img.shields.io/badge/-GFG%20Fullstack%20Bootcamp-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/your-link-here/view" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn%20Developer%20Skills-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/your-id" target="_blank">
+    <img src="https://img.shields.io/badge/-SQL%20Basics-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/your-link-here/view" target="_blank">
+    <img src="https://img.shields.io/badge/-Java%20Practice-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/your-link-here/view" target="_blank">
+    <img src="https://img.shields.io/badge/-APIhub%20Hackathon-yellow?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/your-link-here/view" target="_blank">
+    <img src="https://img.shields.io/badge/-Gen%20AI%20%26%20ChatGPT-purple?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📊 <strong>GitHub Insights</strong>
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
@@ -66,7 +82,7 @@
 
 ---
 
-## 📌 <strong>Featured Projects</strong>
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/ayusshs16/simon-says-2" target="_blank">
@@ -88,7 +104,7 @@
 
 ---
 
-## 🧠 <strong>Dev Quotes</strong>
+## 🧠 Dev Quotes
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -96,7 +112,7 @@
 
 ---
 
-## 🧾 <strong>GitHub Summary</strong>
+## 🧾 GitHub Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusshs16&theme=github_dark" />
@@ -104,7 +120,7 @@
 
 ---
 
-## 🔥 <strong>Contribution Graph</strong>
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusshs16&theme=github-compact&hide_border=true" />
@@ -112,26 +128,10 @@
 
 ---
 
-## 😂 <strong>Dev Joke</strong>
+## 😂 Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
-</p>
-
----
-
-## 🌐 <strong>Connect With Me</strong>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayusshs16/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayushsrivastava9336@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ayushgfg16/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-  </a>
 </p>
 
 ---
