@@ -48,23 +48,26 @@
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://postimg.cc/kDv1rqg2" target="_blank">
+  <a href="certificates/instagram system design.png" target="_blank">
     <img src="https://img.shields.io/badge/-Scaler%20System%20Design-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
-  <a href="https://postimg.cc/06FtVm1L" target="_blank">
+  <a href="certificates/fullstack bootcamp.jpg" target="_blank">
     <img src="https://img.shields.io/badge/-GFG%20Fullstack%20Bootcamp-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="https://postimg.cc/bdhX8X44" target="_blank">
+  <a href="certificates/linkedin learning.jpg" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn%20Developer%20Skills-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://postimg.cc/K1yb1Nvt" target="_blank">
+  <a href="certificates/hackerrank sql.jpg" target="_blank">
     <img src="https://img.shields.io/badge/-SQL%20Basics-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://postimg.cc/F7MJzNZg" target="_blank">
+  <a href="certificates/hackathon.jpg" target="_blank">
     <img src="https://img.shields.io/badge/-APIhub%20Hackathon-yellow?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
-  <a href="https://postimg.cc/JtGX1gJc" target="_blank">
+  <a href="certificates/gen ai &chatgpt.jpg" target="_blank">
     <img src="https://img.shields.io/badge/-Gen%20AI%20%26%20ChatGPT-purple?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+  <a href="outskill.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/-Outskill%20AI%20Certificate-orange?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
 </p>
 
