@@ -15,7 +15,7 @@
 
 🎓 3rd-year BCA student from Kanpur, Uttar Pradesh  
 💻 Passionate about building dynamic and user-friendly web applications  
-📚 Currently learning Java, Node.js, and backend development  
+📚 Currently learning React and Java  
 🚀 Exploring cloud computing and DevOps fundamentals  
 🤝 Open to collaborating on open-source projects and hackathons  
 
@@ -43,6 +43,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,mongodb,git,vscode,aws" />
 </p>
 
+---
+
+## 🚀 My Journey So Far
+
+```mermaid
+timeline
+    title Ayush Srivastava's Tech Journey
+    2023 : Started BCA at Kanpur, Uttar Pradesh
+    2024 : Began my web development journey
+    2024 : Built my first dynamic web application
+    2024 : Started learning Java (OOP) and JavaScript fundamentals
+    2024 : Started learning React; focused on front-end fundamentals
+    2025 : Participated in APIhub Hackathon 1.0
+    Present : Currently learning React and Java; building mini-projects
+    Future : Land a Full‑Stack or Frontend Engineer role; continue contributing to open source and deepen backend + DevOps skills 🚀
+```
 
 ---
 
