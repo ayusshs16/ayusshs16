@@ -1,6 +1,11 @@
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc">Ayush Srivastava</span></h1>
 <h3 align="center">💻 Web Developer | ☕ Java Learner | 🎓 BCA Student</h3>
+
+<p align="center">
+  <a href="https://github.com/ayusshs16">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007acc&center=true&vCenter=true&width=435&lines=Learning+Java;Exploring+Cloud+Computing;Building+Web+Projects;Participating+in+Hackathons" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400"/>
@@ -54,74 +59,4 @@ timeline
     2024 : Started learning React; focused on front-end fundamentals
     2025 : Participated in APIhub Hackathon 1.0
     Present : Currently learning React and Java; building mini-projects
-    Future : Land a Full‑Stack or Frontend Engineer role; continue contributing to open source and deepen backend + DevOps skills 🚀
-```
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshs16&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/ayusshs16/simon-says-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=simon-says-2&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/Rock-Paper-Scissors-Web" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Rock-Paper-Scissors-Web&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/emoji-fighter-showdown" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=emoji-fighter-showdown&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/passenger-counter-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=passenger-counter-app&theme=github_dark" />
-  </a>
-</p>
-
----
-
-## 🧠 Dev Quotes
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🧾 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusshs16&theme=github_dark" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusshs16&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 😂 Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusshs16.ayusshs16" alt="Visitor Count" />
-</p>
+    Future : Land a Full-Stack or Frontend Engineer role; continue contributing to open source and deepen backend + DevOps skills 🚀
