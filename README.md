@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="github.gif" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc">Ayush Srivastava</span></h1>
 <h3 align="center">💻 Web Developer | ☕ Java Learner | 🎓 BCA Student</h3>
