@@ -15,11 +15,31 @@
 
 ## 📍 About Me  
 
-🎓 3rd-year BCA student from Kanpur, Uttar Pradesh  
-💻 Passionate about building dynamic and user-friendly web applications  
-📚 Currently learning React and Java  
-🚀 Exploring cloud computing and DevOps fundamentals  
-🤝 Open to collaborating on open-source projects and hackathons  
+🎓 **3rd-year BCA student** from Kanpur, Uttar Pradesh  
+💻 Passionate about building **dynamic and user-friendly web applications**  
+📚 Currently learning **React** and **Java**  
+☁️ Exploring **cloud computing** and **DevOps fundamentals**  
+🤝 Open to collaborating on **open-source projects** and **hackathons**  
+
+---
+
+## 🏅 Achievements & Highlights
+
+- 🥇 **APIhub Hackathon 1.0** participant (2025)
+- 🏆 Built multiple fun web games and mini projects
+- 👨‍💻 **Consistent contributor** to open-source repositories
+- 🌱 Always learning new tech and sharing knowledge with the community
+- 🚀 Deployed projects on AWS and Netlify
+
+---
+
+## ✨ My Goals for 2025
+
+- 🔥 Master Full-Stack Development (MERN & Java)
+- 🧑‍🤝‍🧑 Collaborate on impactful open-source projects
+- 📖 Publish technical articles and tutorials
+- 🏢 Secure a Full-Stack or Frontend Developer role
+- 🌱 Deepen skills in Backend and DevOps
 
 ---
 
@@ -32,6 +52,9 @@
   <a href="mailto:ayushsrivastava9336@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
+  <a href="https://x.com/Ayusshs16?t=VU-gOowI1FU89zWHwU2ylg&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
+  </a>
   <a href="https://www.geeksforgeeks.org/user/ayushgfg16/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30"/>
   </a>
@@ -39,7 +62,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ My Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,mongodb,git,vscode,aws" />
@@ -47,7 +70,7 @@
 
 ---
 
-## 🚀 My Journey So Far
+## 🚀 My Journey
 
 ```mermaid
 timeline
@@ -64,7 +87,7 @@ timeline
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats & Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
@@ -73,7 +96,7 @@ timeline
 
 ---
 
-## 📌 Featured Projects
+## 🏆 Featured Projects
 
 <p align="center">
   <a href="https://github.com/ayusshs16/simon-says-2" target="_blank">
@@ -95,18 +118,10 @@ timeline
 
 ---
 
-## 🧠 Dev Quotes
+## 💡 Dev Quotes
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🧾 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusshs16&theme=github_dark" />
 </p>
 
 ---
@@ -119,14 +134,12 @@ timeline
 
 ---
 
-## 😂 Dev Joke
-
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="dev joke" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusshs16.ayusshs16" alt="Visitor Count" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ayusshs16.ayusshs16" alt="Visitor Count" />
+  <b>Thanks for visiting! Let's connect, collaborate, and code something awesome together 🚀</b>
 </p>
