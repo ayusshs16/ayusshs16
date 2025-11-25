@@ -97,22 +97,25 @@ timeline
 ---
 
 ## 🏆 Featured Projects
-
 <p align="center">
+  <a href="https://github.com/ayusshs16/Tripify" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Tripify&theme=github_dark" />
+  </a>
+
+  <a href="https://github.com/ayusshs16/EdTech" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=EdTech&theme=github_dark" />
+  </a>
+
   <a href="https://github.com/ayusshs16/simon-says-2" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=simon-says-2&theme=github_dark" />
   </a>
 
-  <a href="https://github.com/ayusshs16/Rock-Paper-Scissors-Web" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Rock-Paper-Scissors-Web&theme=github_dark" />
+  <a href="https://github.com/ayusshs16/Medi.Meet" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Medi.Meet&theme=github_dark" />
   </a>
 
-  <a href="https://github.com/ayusshs16/emoji-fighter-showdown" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=emoji-fighter-showdown&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/passenger-counter-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=passenger-counter-app&theme=github_dark" />
+  <a href="https://github.com/ayusshs16/realtime-currency-converter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=realtime-currency-converter&theme=github_dark" />
   </a>
 </p>
 
