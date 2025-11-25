@@ -26,10 +26,11 @@
 ## 🏅 Achievements & Highlights
 
 - 🥇 **APIhub Hackathon 1.0** participant (2025)
-- 🏆 Built multiple fun web games and mini projects
-- 👨‍💻 **Consistent contributor** to open-source repositories
-- 🌱 Always learning new tech and sharing knowledge with the community
-- 🚀 Deployed projects on AWS and Netlify
+- 🏆 Finalist (300+ teams), **HackWith Uttar Pradesh Innovation Challenge 2025**
+- 🎯 **Top 20 Finalist** – IDEATHON at IIITM Gwalior (300+ teams)
+- 🥈 **4th Rank** – Hack Overflow 9.0 Hackathon (NIT Durgapur)
+- 👨‍💻 Consistent contributor to open-source repositories
+- 🚀 Built and deployed 5+ web apps on **AWS, Netlify, Vercel**
 
 ---
 
@@ -70,20 +71,44 @@
 
 ---
 
-## 🚀 My Journey
+## 🌟 Highlights & Key Work
 
-```mermaid
-timeline
-    title Ayush Srivastava's Tech Journey
-    2023 : Started BCA at Kanpur, Uttar Pradesh
-    2024 : Began my web development journey
-    2024 : Built my first dynamic web application
-    2024 : Started learning Java (OOP) and JavaScript fundamentals
-    2024 : Started learning React; focused on front-end fundamentals
-    2025 : Participated in APIhub Hackathon 1.0
-    Present : Currently learning React and Java; building mini-projects
-    Future : Land a Full-Stack or Frontend Engineer role; continue contributing to open source and deepen backend + DevOps skills 🚀
-```
+| Project | Tech Stack | Impact |
+|--------|------------|--------|
+| **Tripify** | React, API | Smart travel planner with geolocation support |
+| **Medi-Meet** | React, Firebase | Telehealth consultation platform |
+| **EdTech Platform** | MERN Stack | Personalized learning system |
+| **Currency Converter** | JavaScript, API | Live real-time forex conversion tool |
+| **Simon Says Game** | JavaScript, DOM | Fun interactive memory-based game |
+
+---
+
+## 🧑‍💼 What I Offer
+
+✔️ Frontend development using **React & JavaScript**  
+✔️ Backend development using **Node.js & Java**  
+✔️ REST API integration and **cloud deployment (AWS, Netlify)**  
+✔️ **Database management** (MongoDB & MySQL)  
+✔️ Responsive UI, UX optimization & performance tuning  
+✔️ Strong problem-solving mindset & hackathon experience  
+
+---
+
+## 📚 My Learning Journey
+
+
+| Year | Milestone |
+|------|-----------|
+| **2023** | Started BCA at Dayanand Academy of Management Studies, Kanpur |
+| **2024** | Began web development journey & built first dynamic web application |
+| **2024** | Started learning **Java (OOP)** and strengthening **JavaScript fundamentals** |
+| **2024** | Built major projects like **Simon Says**, **Tripify**, & **Currency Converter** |
+| **2025** | Participated in **APIhub Hackathon 1.0** |
+| **2025** | Finalist – **HackWith Uttar Pradesh Innovation Challenge** |
+| **2025** | Top 20 Finalist – **Ideathon at IIITM Gwalior** |
+| **2025** | **4th Rank** – Hack Overflow 9.0 Hackathon |
+| **Present** | Building React & Java projects, contributing to Open Source |
+| **Future** | Become Full-Stack / Frontend Engineer, grow DevOps & Backend skills |
 
 ---
 
@@ -92,31 +117,6 @@ timeline
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayusshs16&show_icons=true&theme=github_dark&hide_rank=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusshs16&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏆 Featured Projects
-<p align="center">
-  <a href="https://github.com/ayusshs16/Tripify" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Tripify&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/EdTech" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=EdTech&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/simon-says-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=simon-says-2&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/Medi.Meet" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=Medi.Meet&theme=github_dark" />
-  </a>
-
-  <a href="https://github.com/ayusshs16/realtime-currency-converter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusshs16&repo=realtime-currency-converter&theme=github_dark" />
-  </a>
 </p>
 
 ---
