@@ -26,21 +26,42 @@
 ## 🏅 Achievements & Highlights
 
 - 🥇 **APIhub Hackathon 1.0** participant (2025)
-- 🏆 Finalist (300+ teams), **HackWith Uttar Pradesh Innovation Challenge 2025**
-- 🎯 **Top 20 Finalist** – IDEATHON at IIITM Gwalior (300+ teams)
-- 🥈 **4th Rank** – Hack Overflow 9.0 Hackathon (NIT Durgapur)
-- 👨‍💻 Consistent contributor to open-source repositories
-- 🚀 Built and deployed 5+ web apps on **AWS, Netlify, Vercel**
+- 🧠 Finalist (300+ teams), **HackWith Uttar Pradesh Innovation Challenge 2025**
+- 🎯 Top 20 Finalist – **IDEATHON at IIITM Gwalior (300+ teams)**
+- 🥈 **4th Rank – Hack Overflow 9.0 Hackathon (NIT Durgapur)**
+- 💻 **Organised a Coding Contest with GeeksforGeeks**
+- 🚀 Deployed projects on **AWS and Vercel**
+- 🌱 Always learning new tech and sharing knowledge with the community
+
+---
+
+## 🏆 Hackathon Highlights
+
+| Event | Achievement | Year |
+|-------|-------------|------|
+| Hack Overflow 9.0 – NIT Durgapur | 🥈 **4th Rank** | 2025 |
+| IDEATHON – IIITM Gwalior | 🎯 **Top 20 Finalist** (300+ teams) | 2025 |
+| HackWith Uttar Pradesh Challenge | 🏆 **Finalist** | 2025 |
+| APIhub Hackathon 1.0 | 🚀 Participant | 2025 |
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Full Stack Web Development Bootcamp** – GeeksforGeeks  
+- 🤖 **Mastering Generative AI and ChatGPT** – GeeksforGeeks  
+- 🔍 **Introduction to Model Context Protocol (MCP)** – Anthropic  
+- 🏅 **Certificate of Appreciation – Organizing Coding Contest** (GeeksforGeeks)
 
 ---
 
 ## ✨ My Goals for 2025
 
-- 🔥 Master Full-Stack Development (MERN & Java)
-- 🧑‍🤝‍🧑 Collaborate on impactful open-source projects
-- 📖 Publish technical articles and tutorials
-- 🏢 Secure a Full-Stack or Frontend Developer role
-- 🌱 Deepen skills in Backend and DevOps
+- 🔥 Master Full-Stack Development (MERN & Java)  
+- 🧑‍🤝‍🧑 Collaborate on impactful open-source projects  
+- 📖 Publish technical articles and tutorials  
+- 🏢 Secure a Full-Stack or Frontend Developer role  
+- 🌱 Deepen skills in Backend and DevOps  
 
 ---
 
@@ -79,7 +100,7 @@
 | **Medi-Meet** | React, Firebase | Telehealth consultation platform |
 | **EdTech Platform** | MERN Stack | Personalized learning system |
 | **Currency Converter** | JavaScript, API | Live real-time forex conversion tool |
-| **Simon Says Game** | JavaScript, DOM | Fun interactive memory-based game |
+| **Simon Says Game** | JavaScript, DOM | Fun interactive web memory game |
 
 ---
 
@@ -87,28 +108,27 @@
 
 ✔️ Frontend development using **React & JavaScript**  
 ✔️ Backend development using **Node.js & Java**  
-✔️ REST API integration and **cloud deployment (AWS, Netlify)**  
-✔️ **Database management** (MongoDB & MySQL)  
-✔️ Responsive UI, UX optimization & performance tuning  
-✔️ Strong problem-solving mindset & hackathon experience  
+✔️ REST API integration & **cloud deployment (AWS, Netlify)**  
+✔️ **Database handling** using MongoDB and MySQL  
+✔️ Creating responsive UI with clean user experience  
+✔️ Hackathon problem-solving & team collaboration  
 
 ---
 
 ## 📚 My Learning Journey
 
 
+
 | Year | Milestone |
 |------|-----------|
-| **2023** | Started BCA at Dayanand Academy of Management Studies, Kanpur |
-| **2024** | Began web development journey & built first dynamic web application |
-| **2024** | Started learning **Java (OOP)** and strengthening **JavaScript fundamentals** |
-| **2024** | Built major projects like **Simon Says**, **Tripify**, & **Currency Converter** |
-| **2025** | Participated in **APIhub Hackathon 1.0** |
-| **2025** | Finalist – **HackWith Uttar Pradesh Innovation Challenge** |
-| **2025** | Top 20 Finalist – **Ideathon at IIITM Gwalior** |
-| **2025** | **4th Rank** – Hack Overflow 9.0 Hackathon |
-| **Present** | Building React & Java projects, contributing to Open Source |
-| **Future** | Become Full-Stack / Frontend Engineer, grow DevOps & Backend skills |
+| **2023** | Started BCA at DAMS, Kanpur |
+| **2024** | First web app & moved into development |
+| **2024** | Learned Java OOP and strengthened JavaScript |
+| **2024** | Created projects like Tripify & Simon Says |
+| **2025** | Participated in APIhub Hackathon 1.0 |
+| **2025** | Hackathon Finalist & Top Performer |
+| **Present** | Working on React & Java projects |
+| **Future** | Aim to become Full-Stack/Frontend Engineer |
 
 ---
 
@@ -144,5 +164,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Let's connect, collaborate, and code something awesome together 🚀</b>
+  <b>Thanks for visiting! Let's connect, collaborate, and build something awesome together 🚀</b>
 </p>
